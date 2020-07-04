@@ -16,7 +16,14 @@ _ _ _
 `git add <file>`   
 - git이 해당 파일을 추적한다
 _ _ _
-`git commit -m <message>`
+`git config --global user.name "your name"`   
+`git config --global user.email "your email"`
+_ _ _
+`git commit -m "your commit message"`
+_ _ _
+`git push`
+_ _ _
+`git pull`
 _ _ _
 `git remote -v`
 - 원격저장소 정보 출력   
