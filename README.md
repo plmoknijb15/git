@@ -29,8 +29,15 @@ _ _ _
 - 원격저장소 정보 출력   
 _ _ _
 `git fetch --all`   
-`git rest --hard origin/master`   
+`git reset --hard origin/master`   
 - 원격저장소로 로컬저장소 덮어쓰기   
 
+_ _ _
+`git log`
 
+_ _ _ 
+`git clone <Repository URL>`
 
+_ _ _
+`git reset --hard "version ID"`
+_ _ _
