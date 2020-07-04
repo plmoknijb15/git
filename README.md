@@ -41,3 +41,10 @@ _ _ _
 _ _ _
 `git reset --hard "version ID"`
 _ _ _
+
+`git branch <branchname>`
+_ _ _
+`git branch`
+_ _ _
+`git checkout <branchname>`
+_ _ _
