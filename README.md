@@ -13,6 +13,9 @@ _ _ _
   - unmodified : git이 추적하고 있고, 수정되지 않은 상태
   - staged : git이 추적하고 있고, 수정되었으며, `git add` 하여서 commit 될 준비가 되어있는 상태   
 _ _ _
+`git add <file>`   
+- git이 해당 파일을 추적한다
+_ _ _
 `git remote -v`
 - 원격저장소 정보 출력   
 _ _ _
