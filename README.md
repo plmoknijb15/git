@@ -5,7 +5,8 @@
 `git init`
 
 현재 파일들의 추적 상태 출력      
-`git status`   
+`git status`
+
 파일의 상태는 아래와 같다   
 - untracked : git이 추적하지 않는 상태
 - modified : git이 추적하고 있고, 수정된 상태
