@@ -16,6 +16,8 @@ _ _ _
 `git add <file>`   
 - git이 해당 파일을 추적한다
 _ _ _
+`git commit -m <message>`
+_ _ _
 `git remote -v`
 - 원격저장소 정보 출력   
 _ _ _
