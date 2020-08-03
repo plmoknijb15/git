@@ -48,3 +48,5 @@ _ _ _
 _ _ _
 `git checkout <branchname>`
 _ _ _
+`git checkout -t origin/<branchname>`
+- 특정 branch 가져오기
